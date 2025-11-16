@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://Artem0405.github.io/my-project/)
+- [Публичная страница на GitHub Pages](https://Artem0405.github.io/my-awesome-project/)
